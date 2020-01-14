@@ -1,7 +1,6 @@
 #include <iostream>
 #include "tests.hpp"
 #include "tester.hpp"
-#include "kod.cpp"
 
 void check::FormatujNapis()
 {
