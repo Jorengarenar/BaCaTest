@@ -1,4 +1,5 @@
-#pragma once
+#ifndef GOOD_H_
+#define GOOD_H_
 
 #include <string>
 
@@ -18,3 +19,5 @@ std::string NajwiekszeSlowo(...);
 
 void correct(std::string);
 void bad(std::string, std::string);
+
+#endif

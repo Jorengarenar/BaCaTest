@@ -1,4 +1,5 @@
-#pragma once
+#ifndef TESTER_H_
+#define TESTER_H_
 
 #include "good.hpp"
 #include "kod.cpp"
@@ -29,3 +30,5 @@ void test(F func, A... args)
         bad(good_str, str_to_check);
     }
 }
+
+#endif
