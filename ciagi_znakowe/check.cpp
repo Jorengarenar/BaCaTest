@@ -7,5 +7,9 @@ int main()
     check::UsunSlowo();
     check::NajwiekszeSlowo();
 
+#ifdef _WIN32
+    getchar();
+#endif
+
     return 0;
 }
