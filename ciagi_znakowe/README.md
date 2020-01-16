@@ -7,7 +7,7 @@ You can write your own tests in file `custom.cpp` (file contains one example)
 1. Replace dummy file `kod.cpp` with your code
 2. Make sure you have `g++` in your PATH (type `g++` in terminal/`cmd.exe`)\*
 3. Through command line\*\* (terminal or `cmd.exe`) navigate to this directory
-4. Type `make` (on Windows it's only batch script `make.bat` mimicking Makefile)
+4. Type `make` (on Windows it's only batch script mimicking Makefile)
 5. Check results
 
 \* &nbsp;Windows users should install MinGW
