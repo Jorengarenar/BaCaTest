@@ -26,12 +26,12 @@ If test failed:
 [ERROR] | "returned string" -> "correct answer"
 ```
 
-#### Note about undefined behaviour of `FormatujNapis()`
+#### Note about imprecise behaviour of `FormatujNapis()`
 
-Task content not specified how function `FormatujNapis` should interpret formats like this one: `{u:3}{w:2}`.
+Task content did not precised how function `FormatujNapis` should interpret formats like this one: `{u:3}{w:2}`.
 
 Therefore tests assumed that `FormatujNapis("ABCD{u:3}{w:2}xyzFG, "d", "e", "f")` will result in `ABCDeFG`.
 
 You do not need to worry about this - BaCa contains no such tests.
 
-There those will be denoted with `Checking FormatujNapis (UB)`.
+There, those will be denoted with `Checking FormatujNapis (UB)`.
