@@ -1,5 +1,6 @@
-#include <cstdlib>
+#include <iostream>
 #include "tests.hpp"
+#include "custom.hpp"
 
 int main()
 {
@@ -8,8 +9,11 @@ int main()
     check::UsunSlowo();
     check::NajwiekszeSlowo();
 
+    std::cout << "\nChecking custom tests" << std::endl;
+    custom();
+
 #ifdef _WIN32
-    system("pause");
+    getchar();
 #endif
 
     return 0;

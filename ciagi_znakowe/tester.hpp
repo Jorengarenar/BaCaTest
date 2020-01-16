@@ -2,7 +2,7 @@
 #define TESTER_H_
 
 #include "good.hpp"
-#include "kod.cpp"
+#include "kod.hpp"
 
 template<typename F, typename... A>
 void test(F func, A... args)

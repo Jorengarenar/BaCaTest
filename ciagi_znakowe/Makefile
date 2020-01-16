@@ -1,3 +1,3 @@
-BaCaTest: check.cpp kod.cpp
-	@g++ -o out check.cpp tests.cpp good.o
+BaCaTest: check.cpp kod.cpp custom.cpp
+	@g++ -o out check.cpp tests.cpp custom.cpp good.o
 	@./out
