@@ -1,3 +1,4 @@
+#include <cstdlib>
 #include "tests.hpp"
 
 int main()
@@ -8,7 +9,7 @@ int main()
     check::NajwiekszeSlowo();
 
 #ifdef _WIN32
-    getchar();
+    system("pause");
 #endif
 
     return 0;
