@@ -23,7 +23,7 @@ If test was successfully passed:
 
 If test failed:
 ```
-[ERROR] | "returned string" -> "correct answer"
+[ERROR] | "returned string" -> "correct answer"    { 'parameters', 'of', 'test' }
 ```
 
 #### Note about imprecise behaviour of `FormatujNapis()`
@@ -34,4 +34,4 @@ Therefore tests assumed that `FormatujNapis("ABCD{u:3}{w:2}xyzFG, "d", "e", "f")
 
 You do not need to worry about this - BaCa contains no such tests.
 
-There, those will be denoted with `Checking FormatujNapis (UB)`.
+There, those will be denoted with `Checking FormatujNapis [negligible]`.

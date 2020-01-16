@@ -14,7 +14,7 @@ void check::FormatujNapis()
     test(::FormatujNapis, "A{p:4:a}le {w:1}tra nudny t{w:1}t. {u:3}UsuCam{U:2}{W:2:3}{W:3:3}.","eks", "zy", "niebyt");
     test(::FormatujNapis, "XYZ{u:3}", "d", "e", "f" );
 
-    std::cout << "\nChecking FormatujNapis (UB)" << std::endl;
+    std::cout << "\nChecking FormatujNapis [negligible]" << std::endl;
     test(::FormatujNapis, "ABCD{u:3}{w:2}XYZFG", "d", "e", "f" );
     test(::FormatujNapis, "ABCD{u:3}{w:2}{w:3}XYZG", "d", "e", "f" );
 }

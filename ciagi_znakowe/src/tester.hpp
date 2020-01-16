@@ -1,8 +1,29 @@
 #ifndef TESTER_H_
 #define TESTER_H_
 
+#include <iostream>
+#include <utility>
+
 #include "good.hpp"
 #include "kod.hpp"
+
+#ifdef linux
+    #define RESET    "\033[0m"
+    #define FG_GREY  "\033[90m"
+#else
+    #define RESET    ""
+    #define FG_GREY  ""
+#endif
+
+template <typename Arg, typename... Args>
+void print_args(Arg arg, Args... args)
+{
+    std::cout << FG_GREY "    { '";
+    std::cout << std::forward<Arg>(arg);
+    using expander = int[];
+    (void)expander{0, (void(std::cout << "', '" << std::forward<Args>(args)), 0)...};
+    std::cout << "' }" RESET << std::endl;
+}
 
 template<typename F, typename... A>
 void test(F func, A... args)
@@ -25,10 +46,13 @@ void test(F func, A... args)
 
     if (str_to_check == good_str) {
         correct(good_str);
+        std::cout << std::endl;
     }
     else {
         bad(good_str, str_to_check);
+        print_args(args...);
     }
+
 }
 
 #endif
