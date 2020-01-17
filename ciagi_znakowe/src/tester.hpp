@@ -15,14 +15,12 @@
     #define FG_GREY  ""
 #endif
 
-template <typename Arg, typename... Args>
-void print_args(Arg arg, Args... args)
+template <typename... Args>
+void print_args(Args... args)
 {
-    std::cout << FG_GREY "    { '";
-    std::cout << std::forward<Arg>(arg);
-    using expander = int[];
-    (void)expander{0, (void(std::cout << "', '" << std::forward<Args>(args)), 0)...};
-    std::cout << "' }" RESET << std::endl;
+    std::cout << FG_GREY "    { ";
+    (int[]){0, (void(std::cout << "'" << std::forward<Args>(args) << "' "), 0)...};
+    std::cout << "}" RESET << std::endl;
 }
 
 template<typename F, typename... A>

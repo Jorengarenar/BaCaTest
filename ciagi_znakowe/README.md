@@ -23,7 +23,7 @@ If test was successfully passed:
 
 If test failed:
 ```
-[ERROR] | "returned string" -> "correct answer"    { 'parameters', 'of', 'test' }
+[ERROR] | "returned string" -> "correct answer"    { 'parameters' 'of' 'test' }
 ```
 
 #### Note about imprecise behaviour of `FormatujNapis()`
