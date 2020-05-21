@@ -1,0 +1,10 @@
+r E E N N N W W N N N N E E N N W
+r S S W W N N N N N W W S S S S W S W W S S W W S
+r N E N E E N E E S S W S W W S S W W S
+r S W S S E S E E N E E N N E E S E E N N W
+r W S S S E E N N E E S S S S S S W S W W
+i E E N N N W W N N N N E E N N W
+i S S W W N N N N N W W S S S S W S W W S S W W S
+i N E N E E N E E S S W S W W S S W W S
+i S W S S E S E E N E E N N E E S E E N N W
+i W S S S E E N N E E S S S S S S W S W W

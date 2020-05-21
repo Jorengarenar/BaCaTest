@@ -1,0 +1,6 @@
+r E S S E S E E N N N W
+i E S S E S E E N N N W
+r E S S E S W S W
+i E S S E S W S W
+r E S S E S E E N E E E S W S E
+i E S S E S E E N E E E S W S E

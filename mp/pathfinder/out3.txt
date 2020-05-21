@@ -1,0 +1,12 @@
+r X
+i X
+r S E S
+i S E S
+r N E N E N N N N E E S
+i N E N E N N N N E E S
+r N W W S W S
+i N W W S W S
+r N N E E S
+i N N E E S
+r
+i
