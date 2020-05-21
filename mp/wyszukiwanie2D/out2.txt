@@ -1,0 +1,40 @@
+RekPier: nie ma 1
+RekOst: nie ma 1
+IterPier: nie ma 1
+IterOst: nie ma 1
+---
+RekPier: 5 w (0,0)
+RekOst: 5 w (0,0)
+IterPier: 5 w (0,0)
+IterOst: 5 w (0,0)
+---
+RekPier: 5 w (0,4)
+RekOst: 5 w (4,0)
+IterPier: 5 w (0,4)
+IterOst: 5 w (4,0)
+---
+RekPier: 20 w (1,1)
+RekOst: 20 w (2,2)
+IterPier: 20 w (1,1)
+IterOst: 20 w (2,2)
+---
+RekPier: nie ma 50
+RekOst: nie ma 50
+IterPier: nie ma 50
+IterOst: nie ma 50
+---
+RekPier: 10 w (0,0)
+RekOst: 10 w (1,0)
+IterPier: 10 w (0,0)
+IterOst: 10 w (1,0)
+---
+RekPier: 1 w (0,9)
+RekOst: 1 w (0,9)
+IterPier: 1 w (0,9)
+IterOst: 1 w (0,9)
+---
+RekPier: 1 w (9,0)
+RekOst: 1 w (9,0)
+IterPier: 1 w (9,0)
+IterOst: 1 w (9,0)
+---
