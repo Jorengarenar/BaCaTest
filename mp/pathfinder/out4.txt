@@ -1,0 +1,4 @@
+r N N N N N 
+i N N N N N 
+r X
+i X

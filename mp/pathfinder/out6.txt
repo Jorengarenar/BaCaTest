@@ -1,0 +1,10 @@
+r X
+i X
+r E E E E N N N N N 
+i E E E E N N N N N 
+r X
+i X
+r W S W W W W W S S E E E E 
+i W S W W W W W S S E E E E 
+r W N N N E E S 
+i W N N N E E S 
