@@ -1,0 +1,11 @@
+Wrong DNA sequence.
+Wrong DNA sequence.
+Wrong DNA sequence.
+Wrong character in DNA sequence.
+CAACCCTAT
+More than one START/STOP codon.
+TAC
+Wrong DNA sequence.
+Wrong DNA sequence.
+CAA
+Wrong DNA sequence.
