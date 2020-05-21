@@ -1,0 +1,9 @@
+INF: (a*b)^(a*b*c)
+INF: a*b/(a*b*c)
+INF: a*b+a*b*c
+INF: (a*b)^(c*(a*b))
+INF: a*b/(c*(a*b))
+INF: a*b+c*(a*b)
+INF: (a*b)^(a*b)
+INF: a*b/(a*b)
+INF: a*b+a*b

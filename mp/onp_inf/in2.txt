@@ -1,0 +1,10 @@
+9
+ONP: ab*ab*c*^
+ONP: ab*ab*c*/
+ONP: ab*ab*c*+
+ONP: ab*cab**^
+ONP: ab*cab**/
+ONP: ab*cab**+
+ONP: ab*ab*^
+ONP: ab*ab*/
+ONP: ab*ab*+

@@ -1,0 +1,14 @@
+ONP: error
+INF: x=a*(b*c)
+INF: a^b^c
+ONP: dp~/
+ONP: xabc**=
+INF: error
+ONP: a
+INF: error
+ONP: error
+INF: x=a+(a-b+c)
+INF: error
+ONP: yabxv^+e-*c/-dp~/+
+ONP: yabxv^+e-*c/-dp~/+
+INF: a*~a

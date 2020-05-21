@@ -1,0 +1,15 @@
+15
+INF: ((a
+ONP: xabc**=
+ONP: abc^^
+INF: d/~p
+INF: x=a*(b*c)
+ONP: ab^c
+INF: (a)
+ONP: a~b~~+c~/~d~*~e~^~^~
+INF: a+b+
+ONP: xaab-c++=
+ONP: dfghjklwertyuiop+-*^/<>=+-*^/<>=
+INF: y-a*(b + x^v - e) / c + d / (~ p)
+INF: y-a*(b + x^v - e) / c + d / ~ p
+ONP: aa~*

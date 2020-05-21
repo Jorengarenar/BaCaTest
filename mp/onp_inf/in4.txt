@@ -1,0 +1,31 @@
+30
+INF: ~(~(~((~a+~~b)/~c)*~d)^~e)
+INF: ( a + b * c ) ^ ( x / y - z )
+INF: y-a*(b + x^v - e) / c + d / (~ p)
+INF: b=(a+b)*c^d
+INF: ((m+n+(b-v+(c*x+z/a)))^s^d=f)^g=h
+INF: a~+b
+INF: a~~
+INF: a+b~
+INF: ()a+b
+INF: (a+b)+()
+INF: ~()a
+INF: d=f>g<h/j^(k*(l-(q+(w=e>r<t/y^(u*(i-(o+p)))))))
+INF: a*b
+INF: ~~~~(a*b)
+INF: a*(b*c)
+INF: a*(b*(c*d))
+INF: a=b=c=d
+INF: a=b^c^d
+INF: a+b=c^d
+INF: a*(b-(c+d))
+INF: a-b*(c+d)
+INF: s*(e=r)
+INF: a~b
+INF: (a)~(b)
+INF: (a)*~(b)
+INF: (a)~*(b)
+INF: (a)*(~b)
+INF: (a)*(~b)~
+INF: x=a+(((a-b)+c))
+INF: (a +b))(
