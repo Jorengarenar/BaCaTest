@@ -1,0 +1,36 @@
+T1: W1 W2 W3 
+T2: W6 W5 W4 
+T2: W4 W5 W6 
+Trains: T2 T1 
+Trains: T1 
+T1: W1 W2 W3 W4 W5 W6 
+Train T2 does not exist
+T1: W6 W5 W4 W3 W2 W1 
+T1: W1 W2 W3 W4 W5 W6 
+T2: W7 W8 
+Trains: T1 
+T1: W1 W2 W3 W4 W5 W6 W7 W8 
+T1: W0 W1 W2 W3 W4 W5 W6 W7 W8 
+T1: W0 W1 W2 W3 W4 W5 W6 W7 W8 W9 
+T1: W9 W8 W7 W6 W5 W4 W3 W2 W1 W0 
+T1: W0 W1 W2 W3 W4 W5 W6 W7 W8 W9 
+Trains: T3 
+T3: W10 W11 W12 W13 W0 W1 W2 W3 W4 W5 W6 W7 W8 W9 
+T3: W9 W8 W7 W6 W5 W4 W3 W2 W1 W0 W13 W12 W11 W10 
+Trains: T2 T1 T3 
+T1: W9 
+T2: W10 
+T3: W8 W7 W6 W5 W4 W3 W2 W1 W0 W13 W12 W11 
+Train T1 already exists
+Train T1 already exists
+Train T1 already exists
+Train T1 already exists
+Train T1 already exists
+Train T1 already exists
+Train T1 already exists
+Train T1 already exists
+Train T1 already exists
+T3: W8 W7 W6 W5 W4 W3 W2 W1 W0 W13 W12 W11 
+Trains: T2 
+T2: W10 W9 W8 W7 W6 W5 W4 W3 W2 W1 W0 W13 W12 W11 
+T2: W11 W12 W13 W0 W1 W2 W3 W4 W5 W6 W7 W8 W9 W10 

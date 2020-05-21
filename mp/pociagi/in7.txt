@@ -1,0 +1,22 @@
+1 21
+New T1 W1
+New T2 W4
+InsertLast T1 W2
+InsertLast T1 W3
+InsertFirst T2 W5
+Reverse T1
+Union T2 T1
+Display T1
+Display T2
+DelLast T2 T1
+Reverse T1
+Reverse T2
+DelLast T2 T5
+DelLast T2 T4
+DelLast T2 T3
+Trains
+Display T1
+Display T2
+Display T3
+Display T4
+Display T5

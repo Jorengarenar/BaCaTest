@@ -1,0 +1,8 @@
+Train T1 does not exist
+T2: W5 W4 W3 W2 W1
+Trains: T3 T4 T5 T1 T2
+T1: W1
+T2: W2
+T3: W3
+T4: W4
+T5: W5

@@ -1,0 +1,20 @@
+1
+18
+New T1 x
+InsertFirst T1 y
+Display T1
+Reverse T1
+Display T1
+InsertFirst T1 a
+Display T1
+InsertLast T1 o
+Display T1
+DelFirst T1 T2
+Trains
+Display T1
+Display T2
+Trains
+New T3 l
+Trains
+DelFirst T2 T4
+Trains

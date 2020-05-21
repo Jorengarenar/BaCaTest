@@ -1,0 +1,37 @@
+1
+35
+New T1 W2
+InsertFirst T1 W1
+InsertFirst T1 W0
+InsertLast T1 W3
+InsertLast T1 W5
+Reverse T1
+Display T1
+New T2 W7
+InsertFirst T2 W6
+InsertLast T2 W8
+Reverse T2
+Display T2
+Trains
+Union T1 T2
+Display T1
+Reverse T1
+Display T1
+InsertLast T1 LS1
+InsertFirst T1 FS1
+Display T1
+Reverse T1
+Display T1
+InsertLast T1 R1
+DelLast T1 T3
+InsertLast T3 R2
+InsertLast T3 R3
+Reverse T3
+InsertFirst T3 R4
+InsertFirst T3 R5
+Reverse T3
+Display T3
+Union T3 T1
+Display T3
+Reverse T3
+Display T3

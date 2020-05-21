@@ -1,0 +1,10 @@
+T1: y x
+T1: x y
+T1: a x y
+T1: a x y o
+Trains: T2 T1
+T1: x y o
+T2: a
+Trains: T2 T1
+Trains: T3 T2 T1
+Trains: T4 T3 T1

@@ -1,0 +1,18 @@
+1
+16
+New T1 W1
+InsertLast T1 W2
+InsertLast T1 W3
+InsertLast T1 W4
+New T2 R1
+InsertLast T2 R2
+InsertLast T2 R3
+InsertLast T2 R4
+Reverse T1
+Reverse T2
+Display T1
+Display T2
+Union T1 T2
+Display T1
+Reverse T1
+Display T1

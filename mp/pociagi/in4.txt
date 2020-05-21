@@ -1,0 +1,49 @@
+1
+47
+New T1 W5
+InsertFirst T1 W4
+InsertLast T1 W6
+Display T1
+Reverse T1
+InsertFirst T1 W7
+InsertLast T1 W3
+Display T1
+Reverse T1
+InsertFirst T1 W2
+InsertLast T1 W8
+Display T1
+Reverse T1
+InsertFirst T1 W9
+InsertLast T1 W1
+Display T1
+New T2 R5
+InsertFirst T2 R4
+InsertLast T2 R6
+Display T2
+Reverse T2
+InsertFirst T2 R7
+InsertLast T2 R3
+Display T2
+Reverse T2
+InsertFirst T2 R2
+InsertLast T2 R8
+Display T2
+Reverse T2
+InsertFirst T2 R9
+InsertLast T2 R1
+Display T2
+Union T1 T2
+Display T1
+Reverse T1
+Display T1
+InsertFirst T1 R0
+InsertLast T1 W10
+Display T1
+DelLast T1 T2
+InsertLast T2 W11
+InsertLast T2 W12
+Reverse T2
+InsertFirst T2 W13
+Union T1 T2
+Reverse T1
+Display T1

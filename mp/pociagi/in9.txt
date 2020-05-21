@@ -1,0 +1,45 @@
+1
+43
+New A A2
+New B A5
+New C A8
+New D A10
+New E A11
+New F A14
+New G A16
+InsertLast A A3
+InsertFirst A A1
+InsertLast B A6
+InsertFirst B A4
+InsertLast C A7
+InsertFirst C A9
+InsertLast E A12
+InsertLast E A13
+InsertLast D A12
+InsertLast D A11
+InsertLast G A15
+InsertFirst G A17
+Union E F
+Reverse G
+Union E G
+Display E
+Union A B
+Display A
+Reverse C
+Union A C
+Display A
+Trains
+Display D
+DelLast D H
+Union H D
+DelLast H D
+Union D H
+Display D
+Reverse D
+Union A D
+Display A
+DelFirst E B
+DelFirst E C
+Union A E
+Display A
+Trains
