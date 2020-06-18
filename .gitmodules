@@ -1,0 +1,3 @@
+[submodule "programming/wielomiany/unit_tests/cmake-modules"]
+	path = programming/wielomiany/unit_tests/cmake-modules
+	url = git@github.com:Jorengarenar/cmake-modules.git
